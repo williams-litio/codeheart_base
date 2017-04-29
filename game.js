@@ -36,7 +36,7 @@ function onTick() {
 
     clearRectangle(0, 0, screenWidth, screenHeight);
 
-    fillText("hello world",
+    fillText("hello word",
              screenWidth / 2, 
              screenHeight / 2,             
              makeColor(0.5, 0.0, 1.0, 1.0), 
